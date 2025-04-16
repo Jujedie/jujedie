@@ -1,4 +1,6 @@
-## Hi there 👋
+## Jujedie 👋
+[![wakatime](https://wakatime.com/badge/user/018ee61e-a067-4bc0-9ed3-24a4d7f629a0.svg)](https://wakatime.com/@3e7f2cb6-20a1-470e-b2e5-b278cf30502c)
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jujedie" /> -->
 
 <!--
 **Jujedie/jujedie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
