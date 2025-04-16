@@ -1,5 +1,5 @@
 ## Jujedie 👋
-[![wakatime](https://wakatime.com/badge/user/@3e7f2cb6-20a1-470e-b2e5-b278cf30502c.svg)](https://wakatime.com/@3e7f2cb6-20a1-470e-b2e5-b278cf30502c)
+[![wakatime](https://wakatime.com/badge/user/3e7f2cb6-20a1-470e-b2e5-b278cf30502c.svg)](https://wakatime.com/@3e7f2cb6-20a1-470e-b2e5-b278cf30502c)
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jujedie" /> -->
 
 <!--
