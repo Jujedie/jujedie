@@ -2,7 +2,7 @@
 
 ### GitHub Stats
 
-[![jujedie GitHub stats](https://github-readme-stats.vercel.app/api?username=jujedie&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujedie&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+[![jujedie GitHub stats](https://github-readme-stats.vercel.app/api?username=jujedie&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujedie&langs_count=8&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 - ---
