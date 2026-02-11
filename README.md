@@ -50,7 +50,7 @@
 
 ### GitHub Stats
 
-[![Jujedie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujedie)](https://github.com/anuraghazra/github-readme-stats)
+[jujedie GitHub stats](https://github-readme-stats.vercel.app/api?username=jujedie&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujedie&langs_count=8&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 - ---
 [![jujedie WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=3e7f2cb6-20a1-470e-b2e5-b278cf30502c&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
